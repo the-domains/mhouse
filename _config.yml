@@ -1,0 +1,28 @@
+name: mhouse
+favicon: null
+layout_spectrum: 0.00017551239579916
+typography_spectrum: 0.2902056088205427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.15551411057822406
+  lightness: 0.7866568353492767
+  saturation: 0.3713256281334907
+  rhythmicContrast: 0.16347692860290408
+purpose: []
